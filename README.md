@@ -7,9 +7,34 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lestterx&layout=donut-vertical&theme=midnight-purple" />
 </a>
 
+<img alt='NodeJs' src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' />
+<img alt='JavaSript' src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' />
+<img alt='TypeScript' src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' />
+<img alt='Python' src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white' />
+<img alt='ReactJS' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
+<img alt='React Native' src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
+<img alt='Tailwind CSS' src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' />
+<img alt='ExpressJS' src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge' />
+<img alt='Redux' src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white' />
+<img alt='HTML5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' />
+<img alt='CSS3' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' />
+<img alt='Flask' src='https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white' />
+<img alt='PostgreSQL' src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' />
+<img alt='MongoDB' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' />
+<img alt='SQLite' src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white' />
+<img alt='Sequelize' src='https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue' />
+<img alt='JEST' src='https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white' />
+<img alt='Linux' src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black' />
 
 
 
+
+<-- ANOTAÇÕES PARA VOCÊ QUE ESTÁ INICIANO
+Git Stats >> https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#customization
+MarkDown >> https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
+Vários Ícones >> https://emojipedia.org/search/?q=bag
+Badges >> https://dev.to/envoy_/150-badges-for-github-pnk#contents
+-->
 <!--
 **LestterX/lestterx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
