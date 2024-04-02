@@ -11,14 +11,16 @@
 ## •• TECH TOOLS ••
 ### BACKEND
 <div>
-  <img alt='Linux' src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black' />
   <img alt='NodeJs' src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' />
   <img alt='TypeScript' src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' />
+  <img alt='NestJS' src='https://img.shields.io/badge/NestJS-red?style=for-the-badge&logo=NestJS&logoColor=white' />
+  <img alt='PrismaORM' src='https://img.shields.io/badge/PrismaORM-438530?style=for-the-badge&logo=PrismaORM&logoColor=white' />
+  <img alt='PostgreSQL' src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' />
   <img alt='JavaSript' src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' />
   <img alt='ExpressJS' src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge' />
+  <img alt='Linux' src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black' />
   <img alt='Python' src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white' />
   <img alt='Flask' src='https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white' />
-  <img alt='PostgreSQL' src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' />
   <img alt='SQLite' src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white' />
 </div>
 
@@ -27,12 +29,6 @@
   <img alt='MongoDB' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' />
   <img alt='JEST' src='https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white' />
 </div>
-
-#### Outros
-<ul>
-  <li>NestJS</li>
-  <li>PrismaORM</li>
-</ul>
 
 <br>
 
