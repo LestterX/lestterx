@@ -28,6 +28,12 @@
   <img alt='JEST' src='https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white' />
 </div>
 
+#### Outros
+<ul>
+  <li>NestJS</li>
+  <li>PrismaORM</li>
+</ul>
+
 <br>
 
 ### FRONTEND
@@ -42,6 +48,7 @@
   <img alt='ReactJS' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
   <img alt='Tailwind CSS' src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' />
 </div>
+
 <!-- ANOTAÇÕES PARA VOCÊ QUE ESTÁ INICIANO
 Git Stats >> https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#customization
 MarkDown >> https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
